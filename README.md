@@ -26,7 +26,7 @@ Overall, it looks like the temperature variance between June and December should
 
 **Supplemental Figure 1:** Percentage of “slow” business days in June when assuming that weather under 70 degrees will lead to a slow day.
 
-
+![December-slow-days](Resources/december_slow.png)
 
 **Supplemental Table 2:** Percentage of “slow” business days in December when assuming that weather under 70 degrees will lead to a slow day.
 
